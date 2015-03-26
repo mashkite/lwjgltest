@@ -1,5 +1,4 @@
 target/
 natives/
 .settings/
-.project
 .classpath
