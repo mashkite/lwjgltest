@@ -1,12 +1,12 @@
-# lwjgltest  
+# LWJGLtest  
 
 ## Attention
-When you run this app at first, please write below sentences in VM paramete.  
+When you run this app at first, please write below sentences in VM paramete  
 __-Djava.library.path=natives__
 
-###comment
-sharing between Windows and Mac
-+creat maven project
-+git init and pull
-+project reflesh
-+we can!
+##comment
+sharing between Windows and Mac  
+1.creat maven project  
+2.git init and pull  
+3.project reflesh  
+4.we can!
